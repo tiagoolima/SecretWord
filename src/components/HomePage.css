@@ -1,0 +1,14 @@
+.titulo {
+    font-size: 3.5em;
+}
+.gif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .instrucao {
+    margin-bottom: 2em;
+    color: #ecfa00;
+  }

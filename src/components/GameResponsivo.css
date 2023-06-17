@@ -1,0 +1,63 @@
+@media(min-width: 360px) and (max-width: 500px) {
+    .game h1 {
+        font-size: 1.5em;
+    }
+
+    .wordContainer {
+        margin: .5em;
+        padding: .5em;
+        border: 10px solid #ECFA00;
+        display: flex;
+        justify-content: center;
+    }
+
+    .letter, .blankSquare {
+        font-size: 20px;
+        line-height: 1.5;
+        border: 2px solid #000;
+        height: 30px;
+        width: 30px;
+    }
+
+    .letterContainer input {
+        height: 40px;
+        width: 30px;
+        font-size: 1em;
+        text-align: center;
+        margin-right: 1em;
+    }
+}
+
+@media(min-width: 640px) and (max-width: 900px) {
+    html, body {
+        height: 600px;
+    }
+    
+    .game h1 {
+        font-size: 1.5em;
+    }
+
+    .wordContainer {
+        margin: .5em;
+        padding: .5em;
+        border: 10px solid #ECFA00;
+        display: flex;
+        justify-content: center;
+    }
+
+    .letter, .blankSquare {
+        font-size: 20px;
+        line-height: 1.5;
+        border: 2px solid #000;
+        height: 30px;
+        width: 30px;
+    }
+
+    .letterContainer input {
+        height: 40px;
+        width: 30px;
+        font-size: 1em;
+        text-align: center;
+        margin-right: 1em;
+    }
+}
