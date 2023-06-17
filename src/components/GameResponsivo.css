@@ -26,6 +26,12 @@
         text-align: center;
         margin-right: 1em;
     }
+
+    .letterContainer p {
+        width: 300px;
+        text-align: center;
+        justify-content: center;
+    }
 }
 
 @media(min-width: 640px) and (max-width: 900px) {
