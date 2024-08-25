@@ -54,9 +54,9 @@ npm start
 ```
 
 ## :camera_flash: Captura de Tela 
-<div align="center"> 
-  <img src="https://github.com/tiagoothome/SecretWord/assets/102389691/e5c264d7-3e53-446d-9c56-b90b92c8bb89.png" width="700px" />
-  <img src="https://github.com/user-attachments/assets/ff14967d-e712-44d1-891f-042b769bda0c width="700px" />
+<div> 
+  <img src="https://github.com/user-attachments/assets/ff14967d-e712-44d1-891f-042b769bda0c" width="700px" />
+  <img src="https://github.com/tiagoolima/SecretWord/assets/102389691/e5c264d7-3e53-446d-9c56-b90b92c8bb89.png" width="700px" />
 </div>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas 
