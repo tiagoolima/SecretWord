@@ -37,9 +37,9 @@
 <p align="justify"> O objetivo principal deste projeto é proporcionar uma experiência de jogo divertida e desafiadora, onde os usuários possam testar suas habilidades de dedução e conhecimento de palavras a partir de dicas fornecidas. </p>
 
 ## :video_game: Funcionalidades 
-- Receber Dicas: O jogo fornece uma dica para ajudar o usuário a adivinhar a palavra correta.
-- Adivinhação: O usuário tenta adivinhar a palavra inserindo letras uma a uma.
-- Limite de Erros: O usuário pode errar até 5 vezes; após isso, o jogo termina.
+- Receber Dicas: O jogo fornece uma dica para ajudar o usuário a adivinhar a palavra correta;
+- Adivinhação: O usuário tenta adivinhar a palavra inserindo letras uma a uma;
+- Limite de Erros: O usuário pode errar até 5 vezes; após isso, o jogo termina;
 - Interatividade: O site oferece uma interface amigável e interativa, onde o progresso do jogo é atualizado em tempo real.
 
 ## :arrow_down: Instalação das Dependências
